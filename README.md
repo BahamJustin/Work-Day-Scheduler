@@ -1,1 +1,7 @@
-# Work-Day-Scheduler
+# Work Day Scheduler
+
+## Purpose
+
+## Built With
+
+## Website Link
