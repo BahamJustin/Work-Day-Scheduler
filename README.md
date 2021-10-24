@@ -1,7 +1,13 @@
 # Work Day Scheduler
 
-## Purpose
+![Screenshot](assets\ScreenShot.png)
 
 ## Built With
+
+-HTML
+-Javascript
+-Jquery
+-Bootstrap
+-Moment.js
 
 ## Website Link
