@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-![Screenshot](assets\ScreenShot.png)
+![Screenshot](assets/ScreenShot.png)
 
 ## Built With
 
